@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Gabriel Barros
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
 Me chamo Gabriel Rodrigues de Barros, tenho 25 anos e sou estudante de Análise e Desenvolvimento de Sistemas. Possuo conhecimentos em HTML, CSS, JavaScript e Python e busco minha primeira oportunidade na área de desenvolvimento de software ou desenvolvimento web. Sou focado em aprendizado contínuo, estou em constante evolução técnica e determinado a construir uma carreira sólida na área de tecnologia.
 
@@ -61,14 +61,14 @@ Me chamo Gabriel Rodrigues de Barros, tenho 25 anos e sou estudante de Análise 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=grodriguesb&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=grodriguesb&theme=dark&show_icons=true" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=grodriguesb&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=grodriguesb&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
